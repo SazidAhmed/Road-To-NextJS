@@ -1,0 +1,4 @@
+{
+    "change-locale": "Changer de langue",
+    "description": "C'est un composant qui n'est pas une page et qui necessite son propre namespace."
+}

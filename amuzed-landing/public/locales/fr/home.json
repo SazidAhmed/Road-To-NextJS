@@ -1,0 +1,66 @@
+{
+    "hero": {
+        "title": "LA PREMIERE EDITION DES BOOSTER PACKS AMUZED",
+        "title-special": "LIMITÉE",
+        "paragraph": "C'est la dernière étape avant le lancement du jeu AMUZED - Procurez-vous les packs limités de la First Mint Edition jusqu'à épuisement des stocks !",
+        "button": "ACHETEZ DES PACKS",
+        "warning": "Tous les acheteurs de Booster Packs pourront gagner des prix incroyables",
+        "warning-link": "une PlayStation 5, des AirPods Pro Max, ou des bons d'achat Spotify"
+    },
+    "collect": {
+        "title-tiny-1": "LIMITÉE",
+        "title-tiny-2": "PREMIÈRE ÉDITION",
+        "title-1": "COMMENCER",
+        "title-2": "VOTRE",
+        "title-outline": "AVENTURE",
+        "journey": {
+            "collect": {
+                "title": "COLLECTIONNER",
+                "paragraph": "Soyez le premier à mettre la main sur 3 cartes d'artiste dans chaque pack avant le lancement du jeu !",
+                "button": "ACHETER LES CARTES"
+            },
+            "play-to-earn": {
+                "title": "JOUEZ",
+                "paragraph": "Qui fait partie du label de vos rêves ? Choisissez cinq cartes d'artistes pour les batailles hebdomadaires et créez un line-up qui détruira tous vos concurrents."
+            },
+            "trade": {
+                "title": "GAGNEZ",
+                "paragraph": "Peu importe que vous vendiez vos artistes à d'autres labels ou que vous les utilisez pour gagner un tournoi après l'autre. L'objectif est toujours le même : Obtenir les récompenses que vous méritez !"
+            }
+        }
+    },
+    "booster-packs": {
+        "title": "Booster Packs",
+        "paragraph": "Chaque paquet contient 3 cartes d'artiste aléatoires et strictement limitées aux artistes allemands et français."
+    },
+    "partnerships": {
+        "title": "EN PARTENARIAT AVEC"
+    },
+    "latest-news": {
+        "title": "ACTUALITES"
+    },
+    "featured-in": {
+        "title": "PRESENTE DANS"
+    },
+    "buy-now": {
+        "button": "ACHETEZ MAINTENANT"
+    },
+    "faqs": {
+        "faq-1": {
+            "question": "Pourquoi devrais-je acheter des Booster Packs ?",
+            "answer": "Vous obtiendrez des cartes d'artistes aléatoires à un prix réduit. Cette sortie est un remerciement à la communauté qui nous soutient depuis le premier jour."
+        },
+        "faq-2": {
+            "question": "Que contiennent les Booster Packs ?",
+            "answer": "Chaque Booster Pack contient trois cartes d'artistes. Vous trouverez plus d'informations sur la page de détails de chaque pack."
+        },
+        "faq-3": {
+            "question": "Combien de Booster Packs seront disponibles ?",
+            "answer": "Nous ne voulons pas limiter le nombre de Booster Packs. Mais comme les cartes d'artiste sont limitées, les Booster Packs ne seront disponibles que dans la limite des stocks disponibles."
+        },
+        "faq-4": {
+            "question": "Comment puis-je participer au tirage au sort ?",
+            "answer": "Toute personne qui achète un Booster Pack participe automatiquement au tirage au sort. Le 14 octobre 2022, nous distribuerons des prix incroyables comme une PlayStation 5, des AirPods Pro Max ou des bons d'achat Spotify. "
+        }
+    }
+}

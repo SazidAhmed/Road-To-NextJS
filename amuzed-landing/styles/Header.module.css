@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    padding: .5rem 0;
+    background-color: #212123;
+    z-index: 99;
+    position: relative;
+}
+
+.header__container {
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+
+/**
+ * Media Queries
+ */
+
+@media screen and (min-width: 600px) {
+    .header__container {
+        padding-right: 4rem;
+        padding-left: 4rem;
+    }
+}

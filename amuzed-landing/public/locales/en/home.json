@@ -1,0 +1,66 @@
+{
+    "hero": {
+        "title": "amuzed first mint edition booster packs",
+        "title-special": "Limited",
+        "paragraph": "It's the final step before the launch of the AMUZED Game - Get the limited First Mint Edition Packs while stock lasts!",
+        "button": "Buy packs",
+        "warning": "All Booster Pack buyers will be able to win insane prizes",
+        "warning-link": "a PlayStation 5, AirPods Pro Max, or Spotify vouchers"
+    },
+    "collect": {
+        "title-tiny-1": "LIMITED",
+        "title-tiny-2": "FIRST MINT EDITION",
+        "title-1": "start",
+        "title-2": "your",
+        "title-outline": "journey",
+        "journey": {
+            "collect": {
+                "title": "Collect",
+                "paragraph": "Be the first to get your hands on 3 Artist Cards in each pack before the game launches!",
+                "button": "Buy cards"
+            },
+            "play-to-earn": {
+                "title": "Play",
+                "paragraph": "Who is part of your dream label? Choose five artist cards for the weekly battles and create a line-up that destroys every competitor."
+            },
+            "trade": {
+                "title": "EARN",
+                "paragraph": "No matter if you sell your artists to other labels or use them to win one tournament after another. The goal is always: Get the rewards you deserve!"
+            }
+        }
+    },
+    "booster-packs": {
+        "title": "Booster Packs",
+        "paragraph": "Each pack contains 3 random and strictly limited artist cards from German and French artists."
+    },
+    "partnerships": {
+        "title": "In partnership with"
+    },
+    "latest-news": {
+        "title": "Latest News"
+    },
+    "featured-in": {
+        "title": "Featured in"
+    },
+    "buy-now": {
+        "button": "Buy now"
+    },
+    "faqs": {
+        "faq-1": {
+            "question": "Why should I buy Booster Packs?",
+            "answer": "You will get random Artist Cards for a discounted price. This drop is a thank you to the community that has supported us since day one."
+        },
+        "faq-2": {
+            "question": "What's inside the Booster Packs?",
+            "answer": "Each Booster Pack contains three artist cards. You will find more information on each pack's detail page."
+        },
+        "faq-3": {
+            "question": "How many Booster Packs will be available?",
+            "answer": "We don't want to limit the number of Booster Packs. But since the Artist Cards are limited, the Booster Packs will only be available while stocks last."
+        },
+        "faq-4": {
+            "question": "How can I participate in the raffle?",
+            "answer": "Everyone who buys a Booster Pack automatically enters the raffle. On October 14, 2022, we will give away insane prizes like a PlayStation 5, AirPods Pro Max, or Spotify vouchers."
+        }
+    }
+}
