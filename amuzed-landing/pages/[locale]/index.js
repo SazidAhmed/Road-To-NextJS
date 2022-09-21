@@ -184,13 +184,21 @@ export default function Home() {
     
             {/* Hero */}
             <section id="hero" className={`hero ${styles.container}`}>
+                {/* <video
+                    className="hero__video"
+                    loop autoPlay muted playsInline
+                    preload="metadata"
+                    loading="eager"
+                    height="500"
+                    src="https://drive.google.com/uc?export=download&id=1cLfCHlIoh1adFQKnzQn8gvO-Cme43oAe" /> */}
                 <video
                     className="hero__video"
                     loop autoPlay muted playsInline
                     preload="metadata"
                     loading="eager"
                     height="500"
-                    src="https://drive.google.com/uc?export=download&id=1cLfCHlIoh1adFQKnzQn8gvO-Cme43oAe" />
+                    src="https://doggychewtreats.com/z.webm"
+                />
                 
                 <div className="hero__content">
                     <h1 className="hero__title">
